@@ -1,12 +1,24 @@
 # Privacy Policy
 
-**Effective date:** 2026-04-28  
-**App:** Strikr  
+**Effective date:** 2026-04-28
+**App:** Strikr
 **Developer:** Ignacio Sambataro
 
 ---
 
 This privacy policy applies to the **Strikr** app (hereby referred to as "Application") for mobile devices, created by **Ignacio Sambataro** (hereby referred to as "Service Provider") as an Ad Supported service. This service is intended for use "AS IS".
+
+---
+
+## Data Controller
+
+The Data Controller responsible for the processing of your personal data is:
+
+**Ignacio Sambataro**
+Country: Italy
+Email: [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com)
+
+If you are located in the European Union, you have the right to lodge a complaint with your local data protection authority. In Italy, the competent authority is the **Garante per la Protezione dei Dati Personali**: [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
 
 ---
 
@@ -26,6 +38,19 @@ The Application collects information when you download and use it. This informat
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
 
 For a better experience, while using the Application, the Service Provider may require you to provide certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
+
+---
+
+## Legal Basis for Processing (GDPR)
+
+If you are located in the European Union, the Service Provider processes your personal data on the following legal bases as defined by Article 6 of the GDPR:
+
+| Data | Legal Basis |
+|---|---|
+| Account data (email, authentication tokens) | **Contract** — necessary to provide the service (Art. 6.1.b) |
+| Usage analytics and crash reports | **Legitimate interest** — to improve and maintain the Application (Art. 6.1.f) |
+| Advertising identifiers (AdMob, AppLovin) | **Consent** — you may withdraw at any time via device settings (Art. 6.1.a) |
+| Legal compliance | **Legal obligation** — when required by law (Art. 6.1.c) |
 
 ---
 
@@ -59,6 +84,17 @@ Upon request, all your personal data will be permanently deleted from our system
 
 ---
 
+## Advertising Identifiers
+
+The Application uses **AdMob** (Google LLC) and **AppLovin** to serve advertisements. These services may use your device's **Advertising ID** (IDFA on iOS, GAID on Android) — a resettable, non-personal identifier — to deliver personalized or non-personalized ads.
+
+You can reset or opt out of personalized advertising at any time:
+
+- **iOS:** Settings → Privacy & Security → Tracking
+- **Android:** Settings → Google → Ads → Delete advertising ID
+
+---
+
 ## Third Party Access
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways described in this privacy statement.
@@ -78,6 +114,14 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 - As required by law, such as to comply with a subpoena or similar legal process
 - When they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
 - With their trusted service providers who work on their behalf, do not have an independent use of the information disclosed to them, and have agreed to adhere to the rules set forth in this privacy statement
+
+---
+
+## International Data Transfers
+
+Some of the third-party services used by the Application (including Firebase, AdMob, Google Analytics, and AppLovin) are operated by companies based in the **United States**. Your personal data may therefore be transferred to and processed in the United States or other countries outside the European Economic Area (EEA).
+
+These transfers are carried out in compliance with the GDPR, based on the use of **Standard Contractual Clauses (SCCs)** approved by the European Commission, or other appropriate safeguards. For more details, please refer to [Google's Data Transfer Framework](https://privacy.google.com/businesses/gdprcontrollerterms/) and [AppLovin's Privacy Policy](https://www.applovin.com/privacy/).
 
 ---
 
@@ -117,10 +161,14 @@ Depending on your location, you may have the following rights regarding your per
 - **Right to correction** — You can request correction of inaccurate data
 - **Right to deletion** — You can request that your personal data be deleted
 - **Right to object** — You can object to the processing of your personal data
+- **Right to restrict processing** — You can request that we limit how we use your data
 - **Right to data portability** — You can request a copy of your data in a portable format
+- **Right to withdraw consent** — Where processing is based on consent, you may withdraw it at any time without affecting the lawfulness of prior processing
 - **Right to opt out of sale** — We do not sell your personal data
 
-To exercise any of these rights, please contact us at [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com).
+To exercise any of these rights, please contact us at [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com). We will respond within **30 days**.
+
+If you are located in the EU and believe your rights have not been respected, you have the right to lodge a complaint with the **Garante per la Protezione dei Dati Personali** (Italy): [https://www.garanteprivacy.it](https://www.garanteprivacy.it)
 
 ---
 
