@@ -1,7 +1,7 @@
 # Terms & Conditions
 
-**Effective date:** 2026-04-28  
-**App:** Strikr  
+**Effective date:** 2026-04-28
+**App:** Strikr
 **Developer:** Ignacio Sambataro
 
 ---
@@ -56,7 +56,17 @@ Each third-party login provider is governed by their own Terms and Conditions (l
 
 ## Account Deletion
 
-You may request deletion of your account and all associated data at any time by contacting us at [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com) or through the in-app settings. Upon deletion, all your personal data will be permanently removed from our systems within 30 days, except where retention is required by applicable law.
+You may request deletion of your account and all associated data at any time by contacting us at [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com) or through the in-app settings. Upon deletion, all your personal data will be permanently removed from our systems within **30 days**, except where retention is required by applicable law.
+
+---
+
+## Right of Withdrawal (EU Consumers)
+
+In accordance with Directive 2011/83/EU on consumer rights, if you are a consumer located in the European Union and the Application offers paid features or in-app purchases, you have the right to withdraw from the purchase within **14 days** without giving any reason (cooling-off period).
+
+> ℹ️ The core Application is currently **free to use**. This clause applies only if paid features or subscriptions are introduced in the future, and will be clearly communicated at the time of purchase.
+
+To exercise your right of withdrawal, please contact us at [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com) before the 14-day period expires.
 
 ---
 
@@ -99,6 +109,22 @@ While the Service Provider strives to ensure that the Application is updated and
 The Service Provider may update the application at some point. You will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you.
 
 The Service Provider may also cease providing the application and may terminate its use at any time without notice. Upon any termination: (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+
+---
+
+## Governing Law
+
+These Terms and Conditions are governed by and construed in accordance with the laws of **Italy**, without regard to its conflict of law provisions. Any disputes arising from the use of the Application shall be subject to the exclusive jurisdiction of the courts of Italy, unless otherwise required by applicable consumer protection law in your country of residence.
+
+---
+
+## Dispute Resolution (EU)
+
+If you are a consumer located in the European Union, you have the right to use the **EU Online Dispute Resolution (ODR) platform** to resolve disputes out of court:
+
+🔗 [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr)
+
+The Service Provider's contact email for dispute resolution purposes is: [ignaciosamba@gmail.com](mailto:ignaciosamba@gmail.com)
 
 ---
 
